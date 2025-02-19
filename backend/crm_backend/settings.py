@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'client',
     'leads',
     'users',
+    'product',
     'rest_framework',
     
 ]
