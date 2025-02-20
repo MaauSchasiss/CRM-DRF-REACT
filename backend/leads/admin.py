@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import leads
+from .models import Leads
 # Register your models here.
-admin.site.register(leads)
+admin.site.register(Leads)
